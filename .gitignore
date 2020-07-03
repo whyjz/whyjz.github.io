@@ -1,5 +1,10 @@
-css
-css/*
+css/styles
+css/styles/*
+css/bootstrap.css
+css/font-awesome.min.css
+css/magnific-popup.css
+css/perfect-scrollbar-0.4.5.min.css
+css/style.css
 fonts
 fonts/*
 js
