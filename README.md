@@ -1,3 +1,5 @@
-# WhyJ-page
+# whyjz.github.io
 
-HTML file of my personal webpage, as well as other downloadable files (css and js not included here)
+Files of my user webpages, including downloadable CVs and research contents. 
+
+https://whyjz.github.io
