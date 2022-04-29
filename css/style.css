@@ -976,7 +976,7 @@ ul.timeline li .data .text {
 
 .pitems .pubtitle {
 	margin: 0;
-	padding: 0 0 15px 0;
+	padding: 0 120px 15px 0;
 	font-size: 20px;
 	font-weight: 300;
 }
@@ -987,6 +987,18 @@ ul.timeline li .data .text {
 
 .pitems .pubmain .label {
 	margin-right: 10px;
+}
+
+.pitems .pubmain .pubbadges {
+	position: absolute;
+	top: 0;
+	right: 0;
+	text-align: center;
+}
+
+.pitems .pubmain .pubbadges span {
+	padding: 5px 5px;
+	float: right;
 }
 
 .pitems .pubmain .pubassets {
