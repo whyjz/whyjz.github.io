@@ -981,6 +981,10 @@ ul.timeline li .data .text {
 	font-weight: 300;
 }
 
+.pitems .pubauthor {
+	padding: 0 120px 5px 0;
+}
+
 .pitems .pubmain div {
 	font-size: small;
 }
